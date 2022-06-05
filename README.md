@@ -9,5 +9,8 @@ This application is currently hosted at [Heroku](https://react-app-web3.herokuap
 4. Hardhat
 5. Alchemy
 
+### Screenshot
+![image](https://github.com/zhenyu92/web3_app/blob/main/screenshot.JPG)
+
 ### Credits
 This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
